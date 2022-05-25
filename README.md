@@ -1,6 +1,8 @@
 # CCTSDB2021
 
-数据集发布到百度云。
+# 数据集通过百度云发布
+链接：https://pan.baidu.com/s/1hyGmwLzcPi21XEP1MQsj5Q 
+<p>提取码：nygx
 
 请帮忙引用：</p>
 [1] Jianming Zhang, Xin Zou, Li-Dan Kuang, Jin Wang, R. Simon Sherratt, Xiaofeng Yu. CCTSDB 2021: A more comprehensive traffic sign detection benchmark. Human-centric Computing and Information Sciences, 2022, vol. 12, Article number: 23. DOI: 10.22967/HCIS.2022.12.023. </p></p>
