@@ -1,9 +1,15 @@
 # CCTSDB2021
+#
 
-# 数据集通过百度云发布
+# 1. 数据集通过谷歌云端硬盘发布（Google Drive）
+CCTSDB2021： https://drive.google.com/drive/folders/14Km2W-5hbixXDfz7WSqW_Rx7O5m8ZMFn?usp=sharing
+<p>
+
+# 2. 数据集通过百度网盘发布
 链接：https://pan.baidu.com/s/1hyGmwLzcPi21XEP1MQsj5Q 
 <p>提取码：nygx
 
+# 3. If you use this dataset, please cite the following papers: </p>
 请帮忙引用：</p>
 [1] Jianming Zhang, Xin Zou, Li-Dan Kuang, Jin Wang, R. Simon Sherratt, Xiaofeng Yu. CCTSDB 2021: A more comprehensive traffic sign detection benchmark. Human-centric Computing and Information Sciences, 2022, vol. 12, Article number: 23. DOI: 10.22967/HCIS.2022.12.023. </p>
 [2] Jianming Zhang, Zhuofan Zheng, Xianding Xie, Yan Gui, Gwang-Jun Kim. ReYOLO: A traffic sign detector based on network reparameterization and features adaptive weighting. Journal of Ambient Intelligence and Smart Environments, 2022, vol. 14, no. 4, pp. 317-334.  DOI: 10.3233/AIS-220038. </p>
@@ -12,7 +18,7 @@
 [5] Jianming Zhang, Zhipeng Xie, Juan Sun, Xin Zou, Jin Wang. A cascaded R-CNN with multiscale attention and imbalanced samples for traffic sign detection. IEEE Access, 2020, vol. 8, pp. 29742-29754. DOI: 10.1109/ACCESS.2020.2972338. </p>
 
 
-# CCTSDB2021 HELP
+# 4. CCTSDB2021 HELP
 </p>In cctsdb 2021 dataset, there are 17856 images in training set and positive sample test set. The traffic signs in the image are divided into mandatory, prohibitory and warning according to their meanings.
 </p>There are 16356 training set images numbered 00000-18991.
 </p>The positive sample test set has 1500 images numbered 18992-20491.
